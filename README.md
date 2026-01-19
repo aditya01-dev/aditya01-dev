@@ -12,5 +12,6 @@
 - Web Development Projects (HTML, CSS, JS)
 
 ### 📫 Connect with me
-- GitHub: @aditya-singh-dev
+- GitHub: @aditya01-dev
+
 
