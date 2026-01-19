@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Aditya+Singh;Java+%7C+DSA+%7C+Web+Development;Learning+Every+Day+%F0%9F%9A%80" />
 </p>
 <p align="center">
